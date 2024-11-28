@@ -115,8 +115,8 @@ Cortical folding has been of great interest in recent years, but there is a miss
 Introduction to Brain Imaging Data Structure (BIDS) standard, how it came about, who is developing it, and what principles and procedures propell it forward.
 #### **Ting Xu**: Leveraging Data Sharing in Nonhuman Primates to Chart Brain Development in Macaques
 Nonhuman primates (NHPs) serve as essential models in translational neuroscience. However, the small sample sizes in many NHP imaging studies limit cross-species comparisons with large-scale human brain data. In this presentation, I will introduce the Macaque Charts project, which uses over 1,000 MRI datasets from the PRIMatE Data Exchange (PRIME-DE) consortium to map lifespan brain trajectories in macaques.
-#### **TBA**: TBA
-
+#### **Martin Uecker and Andreas Tille**: Open Science and Free Software: Experience from BART and Debian
+In this joint talk, we will talk about our experience maintaining scientific software. We will discuss our experience with the BART project and the larger DebianMed initiative.
 <br>
 
 ## Day 4 December 6th
@@ -134,8 +134,10 @@ Essential Tremor (ET) is the most prevalent movement disorder with poorly unders
 
 ### **MRI Together 2024 Highlights** (6:00 - 8:00 UTC)
 This session will highlight the latest inspiring work of our community in the open MRI domain: tools that enable open science, reproducibility, and sustainability in MR research, as well as best practices for a completely open pipeline (from data acquisition to publication). We will hear from the Open Science Abstract Awardees at the recent ESMRMB conference 2024 in Barcelona, and give the stage to the finalists of our **MRITogether24 Poster Awards**, concluding with the award ceremony.
+#### **Andreia Gaspar**: Evaluating the repeatability of myocardial T1 mapping using Open-MOLLI at 3T 
 
-#### **TBA**: TBA
+#### **Aurélien Delphin**: Within-exam automatic brain segmentation for accurate and reproducible geometry planning — An open source tool, illustrated with MR spectroscopy volume specification
+A user project on our MR facility required precise MR spectroscopy voxel placements on unusual anatomical targets, as well as a good reproducibility in voxel placement.  My colleagues and I developed two small tools to help alleviate these difficulties. We tried to make them low-dependency, well-documented, and user-friendly. 
 
 <br>
 
@@ -143,8 +145,8 @@ This session will highlight the latest inspiring work of our community in the op
 We often commit our time to Open MRI projects with an altruistic streak: the work is voluntary and based on our self-motivation. However, people in open science projects have a day job with other and higher priorities, and because the incentive structure in their career domain doesn’t align with sustainability and collaboration, progress in open science projects is often slow. Here, we want to learn from open science experts as well as other fields of volunteering how to navigate these sometimes conflicting demands and stay happy, healthy and productive in the process.
 #### **Chuan-Peng Hu**: Promoting Open Science in a Developing Country
 In the past seven years, several Chinese early-career researchers and I have been promoting open science among the Chinese-speaking community by initiating a grassroots network — the Chinese Open Science Network (COSN, Jin et al., 2023). In this talk, I will share our stories and the lessons we have learned.
-#### **Sina Mansour**: Open Science Volunteering and Academia: Navigating the Challenges and Rewards
-In this session, I’ll share my journey as a researcher passionate about open science initiatives, highlighting the meaningful connections between open science and academia through aspects like open code, open data, reproducibility, and transparency. I’ll discuss the ups and downs I’ve encountered along the way, offering a candid view of the benefits and challenges of advocating for open science in an academic environment. This talk aims to offer practical insights that can assist attendees in navigating their own paths in this rewarding yet complex landscape.
+#### **Johanna Bayer and Sina Mansour**: Open Science Volunteering and Academia: Navigating the Challenges and Rewards
+Sina and Johanna bring together years of experience as researchers and volunteers in the MRI field and beyond, offering a candid perspective on the intersection of open science, academia, and sustainable volunteering. Drawing from their diverse engagements in open science initiatives through volunteering, mentoring, and teaching, they will share insights on both the short-term and long-term benefits of scientific volunteering. This talk aims to equip attendees with practical strategies for navigating the rewards and challenges of volunteering while highlighting the lasting impact of contributing to open science and academic communities.
 #### **Silvia Maier**: Steering your life and projects wisely – a neuroscience-informed perspective
 Throughout my professional life, volunteering side projects have been a part of my work portfolio. As a former neuroscientist studying self-control, stress and resilience, my insights from my research together with my growing project management practice helped me develop my own take on how to run myself and my work in a sustainable fashion so I could bring meaningful complex projects to fruition. With a nod to the realities and insights of cognitive neuroscience on self-control and stress, I am happy to share some of my takeaways and steps on how to practically approach and steer your course while handling a demanding project and life portfolio that meets not only your ambition, but also your needs when it comes to nurturing your soul and health.
 #### **Panel Discussion**: How do we go from here?
