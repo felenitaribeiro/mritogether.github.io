@@ -105,7 +105,8 @@ This talk will cover best practices for open science in MR research, highlightin
 This talk will provide an overview of open-source tools for MR image segmentation and registration with examples for applications to partial coverage brain data (typical at > 7 T). It will highlight widely used tools like ITK-SNAP, ANTs, FSL, AFNI, and Freesurfer whilst also emphasising the value of general-purpose image processing with Python.
 #### **Korbinian Eckstein**: Using VS code effectively and cool extensions
 In this talk, I will share practical tips for effectively using Visual Studio Code, a versatile code editor that can greatly enhance productivity. I will highlight several useful extensions (git, AI autocomplete, image viewer, formatting, …). Attendees will learn how to customize the environment to suit their specific needs and might find some new favourite extensions.
-#### **TBA**: TBA
+#### **Kendra Oudyk**: Introduction to git
+In this short introduction to git, we will begin by discussing “what is git and why is it useful?” and then cover some essential basic commands. Next, we will briefly go over the concept of branches and how they facilitate team collaboration. Finally, we will give a live demonstration of putting all these elements together in a small project. 
 <br>
 
 ### **At second sight - open science projects that succeeded at their own pace** (19:00-21:00 UTC)
