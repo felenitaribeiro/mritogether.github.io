@@ -459,7 +459,7 @@ function dataToTime(data, isnegative)
 		this.modalDate.textContent = target.getAttribute('data-start')+' - '+target.getAttribute('data-end');
 
 
-		day = parseInt(target.getAttribute('data-day').replace('#Day', '')) + 2;
+		day = parseInt(target.getAttribute('data-day').replace('#Day', '')) + 1;
 		day = "0" + day.toString();
 		start = target.getAttribute('data-start').replace(':', '');
 		end = target.getAttribute('data-end').replace(':', '');
