@@ -43,7 +43,7 @@ Detailed information about how to attend the workshop will be provided to the re
 
 [**#MRITogether24**](https://twitter.com/hashtag/MRITogether24) happens in **Gather.Town**, a virtual world where you can meet others, visit the sponsor booths, and join the sessions. 
 
-To access Gather.Town **[click here]([https://app.gather.town/app/z5fPWx3bfvQIRTF0/mritogether23](https://app.gather.town/app/xbgBZ1HCwy9iqGq4/mritogether24)**, sign-up or sign-in, and enter the password that was sent to you in a separate email. 
+To access Gather.Town **[click here](https://app.gather.town/app/z5fPWx3bfvQIRTF0/mritogether23](https://app.gather.town/app/xbgBZ1HCwy9iqGq4/mritogether24)**, sign-up or sign-in, and enter the password that was sent to you in a separate email. 
 Contact [mritogether@esmrmb.org](mailto:mritogether@esmrmb.org) if you have not received the password.
 
 To join the sessions, head on to the ***"Talks"* hall in Gather.Town**, from where you will be redirected to Zoom where the live talks will be hosted.
