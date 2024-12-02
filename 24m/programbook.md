@@ -78,7 +78,7 @@ Machine Learning (ML) methods have evolved tremendously during the last decade w
 #### **Abood Bdaiwi**: 129Xe Image Processing Pipeline (XIPline): An Open-Source, Graphical User Interface Application for the Analysis of Hyperpolarized 129Xe MRI
 Hyperpolarized 129Xe MRI is an emerging tool for assessing regional lung microstructure and function. This talk will introduce XIPline, an open-source, user-friendly software developed for standardizing the analysis of 129Xe MRI data, covering ventilation, diffusion, and gas exchange imaging. Ongoing efforts to streamline processing and increase research adoption will be highlighted.
 #### **Alexandre D'Astous**: Hands on with Shimming Toolbox
-MIRTorch, developed at the University of Michigan, focuses on reimplementing basic model-based MRI reconstruction in PyTorch. The project enables researchers to run fast reconstruction algorithms on GPUs, easily prototype new reconstruction methods, and explore innovative directions through differentiable programming.
+This demo will feature the Shimming Toolbox tool used to perform shimming for the brain. Some of the features available will be shown such as volume-wise shimming and slice-wise shimming using spherical harmonics and custom coils.
 #### **Guanhua Wang**: MIRTorch: Ultrafast and Differentiable MRI Reconstruction Using PyTorch
 MIRTorch, developed at the University of Michigan, focuses on reimplementing basic model-based MRI reconstruction in PyTorch. The project enables researchers to run fast reconstruction algorithms on GPUs, easily prototype new reconstruction methods, and explore innovative directions through differentiable programming.
 <br>
