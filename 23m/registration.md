@@ -21,10 +21,10 @@ Recordings will be available on YouTube after the conference.
 * To access the talks directly in Zoom, join here: https://us06web.zoom.us/j/81453955724 (check your mail for the password)
 * Camera/microphone not working in **Gather.Town**:
   * If possible, switch to Chrome. 
-  * Make sure your browser settings are correct. Instructions [here](https://support.gather.town/help/browser-system-settings).
+  * Make sure your browser settings are correct. Instructions [here]([https://support.gather.town/help/browser-system-settings](https://support.gather.town/hc/en-us/articles/15909987334164-Set-Desktop-Browser-and-System-Permissions)).
 * Camera/microphone not working in Zoom: 
   * as an attendee your video and microhone will be disabled by default. The moderator can unmute you to ask a question
-  * Check out the audio and video troubleshooting for Zoom [here](https://support.zoom.com/hc/en/category?id=kb_category&kb_category=31293e9a8720391089a37408dabb35b8)
+  * Check out the audio and video troubleshooting for Zoom [here]([https://support.zoom.com/hc/en/category?id=kb_category&kb_category=31293e9a8720391089a37408dabb35b8](https://support.gather.town/hc/en-us/articles/15910394815508-Troubleshooting-Checklist-Audio-Video-and-Performance-Issues))
 * Issues accessing the conference?
   * Make sure that the email address that you have set in Gather.Town and Zoom is the same as the one that you have registered with. 
   * As a last resort, contact the committee on [mritogether@esmrmb.org](mailto:mritogether@esmrmb.org).
