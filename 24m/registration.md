@@ -52,7 +52,7 @@ Recordings will be available on YouTube after the conference.
 
 ### Notes
 * Chrome is the recommended browser for both platforms. Other browsers might work but may have issues or download the desktop applications of Gather.Town and Zoom.
-* If you are experiencing difficulties in registering and joining Gather.Town, please check this information video (**[video here](www.youtube.com/watch?v=tJybbxo9LBI)**) 
+* If you are experiencing difficulties in registering and joining Gather.Town, please check this information video (**[video here](//youtu.be/tJybbxo9LBI)**) 
 * To access the talks directly in Zoom, join here: https://us06web.zoom.us/j/85361528482 (check your mail for the password)
 * Camera/microphone not working in **Gather.Town**:
   * If possible, switch to Chrome. 
